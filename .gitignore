@@ -1,0 +1,19 @@
+# Private Python space (virtual environment)
+.venv/
+venv/
+
+# Build output from PyInstaller
+build/
+dist/
+*.spec
+
+# Python caches
+__pycache__/
+*.py[cod]
+
+# Saved best score (normally in the user folder, never shared)
+.neon_seeker_best.json
+
+# Windows clutter
+Thumbs.db
+desktop.ini
