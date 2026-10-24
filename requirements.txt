@@ -1,0 +1,5 @@
+# Needed to play the game
+PySide6==6.12.0
+
+# Only needed to build the Windows app (build.py)
+pyinstaller==6.22.3
